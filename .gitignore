@@ -1,0 +1,9 @@
+# Ignore ambiente virtual
+pytelegramv1/
+env/
+
+# Outros arquivos e pastas a serem ignorados
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

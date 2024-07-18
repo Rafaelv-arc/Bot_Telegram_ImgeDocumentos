@@ -1,0 +1,14 @@
+o Bot Deve:
+- armazenar desenhos técnicos (Post desenhos)
+- utilizar filtros (Get desenhos)
+- adicionar desenhos tecnicos (Post desenhos)
+- filtros de acordo com a planilha do pdf (Get desenhos)
+
+sendo tudo utilizado em uma API
+
+
+
+Falta:
+
+-fazer com que os nomes dos arquivos mude na hora de salvar
+- adicionar usuarios e suas permissões
